@@ -1,4 +1,4 @@
-# Find-the-watch 
+# Find the watch 
 
 ### Train and Query image
 
